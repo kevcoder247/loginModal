@@ -6,7 +6,7 @@ module.exports = {
     fontFamily: {
       sans: ['Mulish', 'sans-serif'],
       mono: ['Rokkitt', 'monospace'],
-    }
+    },
   },
   plugins: [],
 }
